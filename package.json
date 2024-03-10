@@ -1,0 +1,29 @@
+{
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trandinhnhan0612/node_expressjs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "blog"
+  ],
+  "author": "NhanDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trandinhnhan0612/node_expressjs/issues"
+  },
+  "homepage": "https://github.com/trandinhnhan0612/node_expressjs#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "name": "nodeexpressjs",
+  "version": "1.0.0",
+  "description": "blog",
+  "main": "index.js",
+  "devDependencies": {}
+}
